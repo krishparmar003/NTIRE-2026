@@ -11,7 +11,7 @@ The model is **fine-tuned on the DIV2K dataset** and evaluated using **tiled inf
 # 1. Repository Structure
 
 ```
-CV_SVNIT
+NTIRE-2026 (CV_SVNIT)
 │
 ├── training.py
 ├── evaluation.py
