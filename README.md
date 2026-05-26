@@ -11,7 +11,7 @@ The model is **fine-tuned on the DIV2K dataset** and evaluated using **tiled inf
 # 1. Repository Structure
 
 ```
-NTIRE-2026 (CV_SVNIT)
+NTIRE-2026-CV_SVNIT
 │
 ├── training.py
 ├── evaluation.py
@@ -57,8 +57,8 @@ pip install einops timm lmdb pillow numpy
 # 4. Clone Repository
 
 ```
-git clone https://github.com/Parampandya0332/CV_SVNIT.git
-cd CV_SVNIT
+git clone https://github.com/krishparmar003/NTIRE-2026-CV_SVNIT.git
+cd NTIRE-2026-CV_SVNIT
 ```
 
 Clone the official Restormer implementation:
@@ -235,7 +235,7 @@ This metric is required for NTIRE evaluation.
 To verify the repository works correctly:
 
 ```
-git clone https://github.com/Parampandya0332/CV_SVNIT.git
+git clone https://github.com/krishparmar003/NTIRE-2026-CV_SVNIT.git
 cd CV_SVNIT
 
 pip install -r requirements.txt
